@@ -17,7 +17,7 @@
    viewBox="0 0 720 1280"
    sodipodi:docname="items_slime.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="/home/lucas/gamedevx/donjon/items/chest.png"
+   inkscape:export-filename="/home/lucas/gamedevx/donjon/items/heart.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -48,7 +48,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.1767767"
-     inkscape:cx="779.65088"
+     inkscape:cx="-204.64173"
      inkscape:cy="1310.9281"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -82,6 +82,13 @@
        id="guide1049"
        inkscape:locked="false" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.05061388;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect983"
+     width="720"
+     height="1280"
+     x="0"
+     y="0" />
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:40.89737701;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect1030"
